@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554816976086.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AE90C5C4",
+    "lastKnownWriteTime" : 1554817037,
+    "last_content_update" : 1554817037614,
+    "path" : "~/Documents/Cursos/Repr/simple_script_starter.R",
+    "project_path" : "simple_script_starter.R",
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
